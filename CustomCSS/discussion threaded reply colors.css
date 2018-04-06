@@ -1,0 +1,14 @@
+/*******************************Discussion CSS edits**********************************/
+.replies {  
+	padding-left: 0px;  
+	border-left: solid #6D6D6D 16px;  
+}  
+  
+.discussion-read-state-btn {  
+    top: 32px;  
+    left:-25px !important;
+}  
+  
+div.entry-content {  
+  padding-left:0px !important;  
+} 
