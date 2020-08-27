@@ -1,0 +1,1 @@
+This small script will create assignments from a spreadsheet. I use it to create assignments in our Faculty course for Administrators to collect Lesson Plans. Saves them time creating the lesson plan assignments and makes each assignment consistent with each other.
